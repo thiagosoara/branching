@@ -3,3 +3,4 @@ Melão
 Laranja
 Uva
 Melancia
+Banana
